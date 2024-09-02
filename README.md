@@ -8,6 +8,7 @@ Ce projet est une jeu de stratégie, et logique dans lequel deux joueurs s'affro
 - Changement de couleur du joueur 1 "Swapping"
 - Mise en évidence des ponts (colorations des cases du plateau de jeu permettant au joueur de faire des coups intéressants)
 - Alternance de joueur après chaque coup joué.
+- Mise en place des plans de tests.
 
 ## Installation
 -----------------------
